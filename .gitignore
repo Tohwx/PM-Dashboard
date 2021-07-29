@@ -1,6 +1,6 @@
 node_modules/
 build/
 .DS_Store
-backend/
+/backend/
 src - Copy/
 src/backend/data/
